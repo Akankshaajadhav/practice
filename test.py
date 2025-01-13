@@ -13,3 +13,5 @@ print("difference")
 
 print("difference from github")
 print("next addition")
+
+print("for stash")
